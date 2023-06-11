@@ -1,10 +1,10 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "Ambient Travel",
+  "description": "by michael wyckoff.",
+  "author": "ManVanIran",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
